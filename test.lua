@@ -124,7 +124,7 @@ TweenService:Create(btn,TweenInfo.new(.08),{Size=UDim2.new(0.92,0,0,34)}):Play()
 -- ✅ FIX PREMIUM TẠI ĐÂY
 if copy then
 	if setclipboard then
-		setclipboard("https://www.youtube.com/@Yungako45")
+		setclipboard("https://www.youtube.com/@Keaw-w7l")
 	end
 	game.StarterGui:SetCore("SendNotification",{
 		Title="Premium",
@@ -225,7 +225,7 @@ Instance.new("UICorner", youtube).CornerRadius = UDim.new(0,8)
 youtube.MouseButton1Click:Connect(function()
 	click(youtube)
 	if setclipboard then
-		setclipboard("https://www.youtube.com/@Yungako45")
+		setclipboard("https://www.youtube.com/@Keaw-w7l")
 	end
 	game.StarterGui:SetCore("SendNotification",{
 		Title="Copied!",
