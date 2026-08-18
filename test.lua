@@ -129,12 +129,6 @@ local NoKeyScripts = {
     },
 
     {
-        Name = "Combat Hub",
-        Icon = "◇",
-        URL = "https://raw.githubusercontent.com/joshhhie/rise/refs/heads/main/loader.lua"
-    },
-
-    {
         Name = "Argon Hub X",
         Icon = "✦",
         URL = "https://raw.githubusercontent.com/AgentX771/ArgonHubX/main/Loader.lua"
