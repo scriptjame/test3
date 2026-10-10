@@ -129,12 +129,6 @@ local NoKeyScripts = {
     },
 
     {
-        Name = "Argon Hub X",
-        Icon = "✦",
-        URL = "https://raw.githubusercontent.com/AgentX771/ArgonHubX/main/Loader.lua"
-    },
-
-    {
         Name = "Allusive",
         Icon = "✧",
         Premium = true
