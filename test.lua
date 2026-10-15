@@ -1036,7 +1036,7 @@ tiktok.Activated:Connect(function()
     if setclipboard then
 
         setclipboard(
-            "www.tiktok.com/@kioro0"
+            "www.tiktok.com/@kmmaj818"
         )
 
     end
